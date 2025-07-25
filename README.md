@@ -38,7 +38,7 @@ Calculator/
 ## 📸 Preview
 
 You can view the live working version here (optional if hosted):  
-Live Demo: https://immortalvivaan461.github.io/Calculator/
+Live Demo: https://immortalvivaan461.github.io/codsoft-taskno.1c/
 
 ## 💡 Learnings
 
