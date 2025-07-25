@@ -26,7 +26,7 @@ Calculator/
 ## 🔧 How to Run Locally
 
 1. Clone the repository:
-   git clone https://github.com/immortalvivaan461/Calculator.git
+   git clone https://github.com/immortalvivaan461/codsoft-taskno.3
 
 2. Open the project folder:
    cd Calculator
@@ -38,8 +38,7 @@ Calculator/
 ## 📸 Preview
 
 You can view the live working version here (optional if hosted):  
-Live Demo: https://immortalvivaan461.github.io/codsoft-taskno.1c/
-
+Live Demo: https://immortalvivaan461.github.io/codsoft-taskno.3/
 ## 💡 Learnings
 
 This project helped in understanding:
